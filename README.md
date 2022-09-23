@@ -14,13 +14,13 @@
 
 ```python
 
-Name = "Krishna Kumar"
+Name = "Çingiz"
 
 Class = "12th"
 
-Age = "17"
+Age = "16"
 
-Country = "🇮🇳"
+Country = "🇦🇿"
 
 ```
 
